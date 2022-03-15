@@ -3,7 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "f0c7044b74a6bf31382430cd281e822e",
+  "assets/AssetManifest.json": "27fb6851b71bdcf4a7b5dd908f538a69",
+"assets/assets/files/HenryKeene-CV-2021-QR-New.pdf": "50de11cba378376b4ff6078a0a40411f",
 "assets/assets/images/angularlogo.png": "639e3b0355a42430576f839817f2528e",
 "assets/assets/images/DatingApp.png": "5fcb809e1d9535e7733a88f0146b40c3",
 "assets/assets/images/dotnetlogo.png": "8bfc1e420373a04cbf1ff56d1b40cb7e",
@@ -18,7 +19,19 @@ const RESOURCES = {
 "assets/assets/images/yellowarrow.png": "ea9e236141b0ba4d53b00946f63a734a",
 "assets/FontManifest.json": "355ed0ad63ab873c8b97a42abc967366",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "6a5fed8d623eef97090310b2f30d8454",
+"assets/images/angularlogo.png": "639e3b0355a42430576f839817f2528e",
+"assets/images/DatingApp.png": "5fcb809e1d9535e7733a88f0146b40c3",
+"assets/images/dotnetlogo.png": "8bfc1e420373a04cbf1ff56d1b40cb7e",
+"assets/images/henryPurple2.png": "c8bda1409360802ef73567c9ae8a05ab",
+"assets/images/henryRed2.png": "2871c8354ebd53d2c0a1976e029aff07",
+"assets/images/henryYellow2.png": "c85b737ccc6ba4a31b4d8459dfed3fbf",
+"assets/images/MenuApp.png": "f919c63dd4a9c5e49aa6486f507c6b5e",
+"assets/images/purplearrow.png": "75d46694806ce26336c2d6df41868fdd",
+"assets/images/redarrow.png": "0a6e89c102df9e8d1a452aa5b07c06f5",
+"assets/images/ShopApp.png": "48c4c560488162e293a5576f498b6099",
+"assets/images/workflo_app.png": "449b71cb2b12d1e5fc69ee85560871ea",
+"assets/images/yellowarrow.png": "ea9e236141b0ba4d53b00946f63a734a",
+"assets/NOTICES": "ddfcb07fd7f5d04dbb61155770f33e44",
 "assets/packages/fluttericon/lib/fonts/Brandico.ttf": "791921e9b25210e2551b6eda3f86c733",
 "assets/packages/fluttericon/lib/fonts/Elusive.ttf": "23f24df0388819e94db2b3c19841841c",
 "assets/packages/fluttericon/lib/fonts/Entypo.ttf": "58edfaf27b1032ea4778b69297c02b5a",
@@ -37,15 +50,19 @@ const RESOURCES = {
 "assets/packages/fluttericon/lib/fonts/Typicons.ttf": "3386cae1128e52caf268508d477fb660",
 "assets/packages/fluttericon/lib/fonts/WebSymbols.ttf": "4fd66aa74cdc6e5eaff0ec916ac269c6",
 "assets/packages/fluttericon/lib/fonts/Zocial.ttf": "c29d6e34d8f703a745c6f18d94ce316d",
+"canvaskit/canvaskit.js": "62b9906717d7215a6ff4cc24efbd1b5c",
+"canvaskit/canvaskit.wasm": "b179ba02b7a9f61ebc108f82c5a1ecdb",
+"canvaskit/profiling/canvaskit.js": "3783918f48ef691e230156c251169480",
+"canvaskit/profiling/canvaskit.wasm": "6d1b0fc1ec88c3110db88caa3393c580",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "d17ae4ff619a6d1695592e3dce33b8aa",
-"/": "d17ae4ff619a6d1695592e3dce33b8aa",
-"main.dart.js": "f74b40010bc6102feeb8368a34da2243",
+"index.html": "4ae7df826e9605dcdb693e067c41d8e2",
+"/": "4ae7df826e9605dcdb693e067c41d8e2",
+"main.dart.js": "e94eb99b28316d4402cb6d9765dedf9c",
 "manifest.json": "ffa6ddd0f98d0d5d5c8f0d704c6fe8da",
 "splash/style.css": "86126e7e4072786170390b7ceee604b3",
-"version.json": "92a047e12e6cc776051d519221dfb5a1"
+"version.json": "cc1fa9cce5af273c0909d105387fee89"
 };
 
 // The application shell files that are downloaded before a service worker can
